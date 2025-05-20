@@ -2,7 +2,7 @@
 
 **Effective Date:** May 20, 2025  
 **Bot Name:** Raven  
-**Developer Contact:** [your.email@example.com] or [YourDiscordTag]
+**Developer Contact:** [spectrummm99@gmail.com] or [fr.terror](https://discord.gg/user/1188034985903542326)
 
 ## 1. Introduction
 
@@ -47,8 +47,8 @@ These Terms may be updated from time to time. Material changes will be announced
 
 If you have any questions or concerns regarding these Terms, please reach out to:
 
-- **Email:** [your.email@example.com]  
-- **Discord:** [YourDiscordTag]
+- **Email:** [spectrummm99@gmail.com]  
+- **Discord:** [fr.terror](https://discord.gg/user/1188034985903542326)
 
 ---
 
