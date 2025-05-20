@@ -12,7 +12,7 @@ You can view the full privacy policy here:
 ## 📜 Terms Of Service
 
 You can view the full terms of service here:
-👉🏻 [Terms of Service](Terms-of-Service.md)
+👉🏻 [Terms of Service](Terms of Service.md)
 
 ## 🔍 What This Policy Covers
 
