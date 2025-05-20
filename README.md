@@ -22,7 +22,7 @@ The privacy policy outlines:
 
 If you have any questions or concerns about Raven's data practices, feel free to contact the developer:
 
-- **Discord:** [fr.terror]
+- **Discord:** [https://discord.gg/user/1188034985903542326]
 - **Email:** [spectrummm99@gmail.com]
 
 ## 📌 Note
