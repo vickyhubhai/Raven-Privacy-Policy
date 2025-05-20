@@ -2,7 +2,7 @@
 
 **Effective Date:** May 20, 2025  
 **Bot Name:** Raven  
-**Developer Contact:** [spectrummm99@gmail.com] or [https://discord.gg/user/1188034985903542326]
+**Developer Contact:** [Email](spectrummm99@gmail.com) or [fr.terror](https://discord.gg/user/1188034985903542326)
 
 ## 1. Introduction
 
@@ -59,7 +59,7 @@ We may update this Privacy Policy periodically. Changes will be posted in this r
 For questions, concerns, or data requests, please contact:
 
 - **Email:** [spectrummm99@gmail.com]  
-- **Discord:** [https://discord.gg/user/1188034985903542326]
+- **Discord:** [fr.terror](https://discord.gg/user/1188034985903542326)
 
 ---
 
