@@ -7,7 +7,12 @@ As required by the [Discord Developer Terms of Service](https://discord.com/deve
 ## 📄 Privacy Policy
 
 You can view the full privacy policy here:  
-👉 [Privacy Policy](Privacy-policy.md)
+👉🏻 [Privacy Policy](Privacy-policy.md)
+
+## 📜 Terms Of Service
+
+You can view the full terms of service here:
+👉🏻 [Terms of Service](Terms-of-Service.md)
 
 ## 🔍 What This Policy Covers
 
